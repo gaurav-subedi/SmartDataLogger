@@ -1,0 +1,14 @@
+E:\Programming\C#\SmartDataLogger\bin\Debug\net9.0-windows\SmartDataLogger.exe
+E:\Programming\C#\SmartDataLogger\bin\Debug\net9.0-windows\SmartDataLogger.deps.json
+E:\Programming\C#\SmartDataLogger\bin\Debug\net9.0-windows\SmartDataLogger.runtimeconfig.json
+E:\Programming\C#\SmartDataLogger\bin\Debug\net9.0-windows\SmartDataLogger.dll
+E:\Programming\C#\SmartDataLogger\bin\Debug\net9.0-windows\SmartDataLogger.pdb
+E:\Programming\C#\SmartDataLogger\obj\Debug\net9.0-windows\SmartDataLogger.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming\C#\SmartDataLogger\obj\Debug\net9.0-windows\SmartDataLogger.AssemblyInfoInputs.cache
+E:\Programming\C#\SmartDataLogger\obj\Debug\net9.0-windows\SmartDataLogger.AssemblyInfo.cs
+E:\Programming\C#\SmartDataLogger\obj\Debug\net9.0-windows\SmartDataLogger.csproj.CoreCompileInputs.cache
+E:\Programming\C#\SmartDataLogger\obj\Debug\net9.0-windows\SmartDataLogger.dll
+E:\Programming\C#\SmartDataLogger\obj\Debug\net9.0-windows\refint\SmartDataLogger.dll
+E:\Programming\C#\SmartDataLogger\obj\Debug\net9.0-windows\SmartDataLogger.pdb
+E:\Programming\C#\SmartDataLogger\obj\Debug\net9.0-windows\SmartDataLogger.genruntimeconfig.cache
+E:\Programming\C#\SmartDataLogger\obj\Debug\net9.0-windows\ref\SmartDataLogger.dll
