@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SmartDataLogger")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a6329a56d2af452d3f0370ac58a5d72015d088b1")]
 [assembly: System.Reflection.AssemblyProductAttribute("SmartDataLogger")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SmartDataLogger")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

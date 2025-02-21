@@ -12,3 +12,4 @@ E:\Programming\C#\SmartDataLogger\obj\Debug\net9.0-windows\refint\SmartDataLogge
 E:\Programming\C#\SmartDataLogger\obj\Debug\net9.0-windows\SmartDataLogger.pdb
 E:\Programming\C#\SmartDataLogger\obj\Debug\net9.0-windows\SmartDataLogger.genruntimeconfig.cache
 E:\Programming\C#\SmartDataLogger\obj\Debug\net9.0-windows\ref\SmartDataLogger.dll
+E:\Programming\C#\SmartDataLogger\obj\Debug\net9.0-windows\SmartDataLogger.sourcelink.json
