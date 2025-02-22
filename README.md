@@ -18,7 +18,7 @@ The **Smart Data Logger** is a simple Windows application developed in C# using 
 ## Installation & Setup
 ### Step 1: Clone the Repository
 ```sh
-git clone https://github.com/yourusername/smart-data-logger.git
+git clone https://github.com/gaurav-subedi/smart-data-logger.git
 cd smart-data-logger
 ```
 
